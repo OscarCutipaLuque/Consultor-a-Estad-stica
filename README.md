@@ -1,2 +1,2 @@
-# Consultor-a-Estad-stica
-Análisis de regresión espacial
+# Statistical Consulting
+Spatial Regression Analysis
